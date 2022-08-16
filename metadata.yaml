@@ -1,0 +1,45 @@
+_repo: Le-Harem-entr-ouvert_68602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lens, A. R. de
+    aliases:
+    - Lens, Aline de
+    - Lens, Aline Reveillaud de
+    - De Lens, A. R.
+    - Lens, Aline R. de
+    - Lens, A.-R. de
+    - Lens, Aline Réveillaud de
+    birthdate: 1881
+    deathdate: 1925
+    gutenberg_agent_id: '54814'
+    url: http://www.gutenberg.org/2009/agents/54814
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
+    - https://en.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68602'
+  lccn: '20008796'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k11896259
+pgterms:marc905: 20211111065223lens
+pgterms:marc906: '1919'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: France :Calmann Lévy,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Morocco -- Social life and customs'
+- !lcsh 'Tunisia -- Social life and customs'
+- !lcc 'DT'
+- !lcsh 'Harems'
+- GITenberg
+tableOfContents: Mœurs Tunisiennes -- Mœurs Marocaines.
+title: Le Harem entr'ouvert
+url: http://www.gutenberg.org/ebooks/68602
