@@ -1,5 +1,8 @@
 _repo: Le-Harem-entr-ouvert_68602
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68602-h/images/cover.jpg
 creator:
   author:
     agent_name: Lens, A. R. de
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
     - https://en.wikipedia.org/wiki/Aline_R%C3%A9veillaud_de_Lens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68602#Le-Harem-entr-ouvert
 gutenberg_issued: '2022-07-24'
 identifiers:
   gutenberg: '68602'
